@@ -49,7 +49,6 @@ class Solution {
                 result = temp2;
                 break;
         }
-
         return result;
     }
 }
